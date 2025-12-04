@@ -1,0 +1,25 @@
+# AutoRespawn version 1.0-SNAPSHOT by imsd
+
+respawn-delay: 1 # time (in seconds) before the player respawns
+
+titles:
+  enabled: true
+  main: "&#FFCF00You have been respawned" # u can use HEX colors (rrggbb) or mini-message formatting
+  sub: "<color:#B8DFFF>Be more careful next time</color>"
+
+sounds:
+  enabled: true
+  sound: "block.note_block.xylophone"
+
+particles:
+  enabled: true
+  effect: "villager_happy"
+
+
+
+
+
+
+
+
+
