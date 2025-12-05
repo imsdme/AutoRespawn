@@ -1,5 +1,3 @@
-# AutoRespawn
-
 <img width="2722" height="1169" alt="preview" src="https://github.com/user-attachments/assets/7ded36f5-077a-41c3-9b63-93bbf6685aa9" />
 
 **AutoRespawn** is a lightweight plugin that allows to fully customize and automate the process of a player returning to the game after death.
