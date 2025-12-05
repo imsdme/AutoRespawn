@@ -5,3 +5,4 @@ api-version: '1.18'
 commands:
   autorespawn:
     permission: autorespawn.admin
+    default: op
