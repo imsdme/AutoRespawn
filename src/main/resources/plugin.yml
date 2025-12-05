@@ -4,5 +4,5 @@ main: me.imsd.autorespawn.AutoRespawn
 api-version: '1.18'
 commands:
   autorespawn:
-    permission: autorespawn.admin
+    permission: autorespawn.reload
     default: op
